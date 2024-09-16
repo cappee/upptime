@@ -1,8 +1,26 @@
 [
   {
+    "name": "Gabriele Cappellaro",
+    "url": "https://gabrielecappellaro.me",
+    "icon": "https://icons.duckduckgo.com/ip3/gabrielecappellaro.me.ico",
+    "slug": "gabriele-cappellaro",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 379,
+    "timeDay": 379,
+    "timeWeek": 379,
+    "timeMonth": 379,
+    "timeYear": 379,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
+    "url": "https://google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 95,
-    "timeDay": 95,
-    "timeWeek": 95,
-    "timeMonth": 95,
-    "timeYear": 95,
+    "time": 113,
+    "timeDay": 113,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1216,
-    "timeDay": 1216,
-    "timeWeek": 1216,
-    "timeMonth": 1216,
-    "timeYear": 1216,
+    "time": 913,
+    "timeDay": 913,
+    "timeWeek": 913,
+    "timeMonth": 913,
+    "timeYear": 913,
     "dailyMinutesDown": {}
   }
 ]
