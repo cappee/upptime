@@ -3,8 +3,10 @@ owner: cappee # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
+  - name: Gabriele Cappellaro
+    url: https://gabrielecappellaro.me
   - name: Google
-    url: https://www.google.com
+    url: https://google.com
   - name: Instagram
     url: https://instagram.com
 
@@ -16,6 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/cappee/gabrielecappellaro.me/refs/heads/gh-pages/android-chrome-512x512.png
   name: Status
   favicon: https://raw.githubusercontent.com/cappee/gabrielecappellaro.me/refs/heads/gh-pages/favicon-32x32.png
+  theme: night
   navbar:
     - title: Status
       href: /
