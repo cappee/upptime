@@ -15,10 +15,11 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/cappee/gabrielecappellaro.me/refs/heads/gh-pages/android-chrome-512x512.png
   name: Status
-  - title: Status
-    href: /
-  - title: GitHub
-    href: https://github.com/$OWNER/$REPO
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
   uptime: "* */1 * * *"
