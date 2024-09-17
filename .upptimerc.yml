@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Gabriele Cappellaro
     url: https://gabrielecappellaro.me
-  - name: Home Assistant (Raspberry PI)
+  - name: Home Assistant
     url: $HASS_URL
   - name: Instagram
     url: https://instagram.com
@@ -20,10 +20,10 @@ status-website:
   name: Status
   favicon: https://raw.githubusercontent.com/cappee/gabrielecappellaro.me/refs/heads/gh-pages/favicon-32x32.png
   navbar:
-    - title: Status
+    - title: Upptime
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER
+      href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
   uptime: "*/10 * * * *"
