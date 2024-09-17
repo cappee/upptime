@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Gabriele Cappellaro
     url: https://gabrielecappellaro.me
-  - name: Google
-    url: https://google.com
+  - name: Home Assistant (Raspberry PI)
+    url: $HASS_URL
   - name: Instagram
     url: https://instagram.com
 
@@ -15,18 +15,18 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.gabrielecappellaro.me
   # baseUrl: /your-repo-name
+  theme: night
   logoUrl: https://raw.githubusercontent.com/cappee/gabrielecappellaro.me/refs/heads/gh-pages/android-chrome-512x512.png
   name: Status
   favicon: https://raw.githubusercontent.com/cappee/gabrielecappellaro.me/refs/heads/gh-pages/favicon-32x32.png
-  themeUrl: https://status.gabrielecappellaro.me/custom-theme.css
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
 
 workflowSchedule:
-  uptime: "* */1 * * *"
+  uptime: "*/10 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
