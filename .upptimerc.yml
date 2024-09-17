@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/cappee/gabrielecappellaro.me/refs/heads/gh-pages/android-chrome-512x512.png
   name: Status
   favicon: https://raw.githubusercontent.com/cappee/gabrielecappellaro.me/refs/heads/gh-pages/favicon-32x32.png
-  themeUrl: https://raw.githubusercontent.com/cappee/upptime/master/assets/custom-theme.css
+  themeUrl: https://status.gabrielecappellaro.me/custom-theme.css
   navbar:
     - title: Status
       href: /
