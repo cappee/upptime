@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 351,
-    "timeWeek": 385,
+    "time": 313,
+    "timeDay": 306,
+    "timeWeek": 372,
     "timeMonth": 331,
-    "timeYear": 314,
+    "timeYear": 313,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-12": 83,
+      "2024-12-13": 85,
+      "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
@@ -130,15 +131,15 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.83%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 747,
-    "timeDay": 859,
-    "timeWeek": 918,
-    "timeMonth": 708,
-    "timeYear": 747,
+    "time": 753,
+    "timeDay": 1409,
+    "timeWeek": 960,
+    "timeMonth": 724,
+    "timeYear": 753,
     "dailyMinutesDown": {
       "2024-12-11": 17
     }
