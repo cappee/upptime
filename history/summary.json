@@ -4,7 +4,7 @@
     "url": "https://gabrielecappellaro.me",
     "icon": "https://icons.duckduckgo.com/ip3/gabrielecappellaro.me.ico",
     "slug": "gabriele-cappellaro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 251,
     "timeMonth": 298,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 0
+    }
   },
   {
     "name": "Home Assistant",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "23.67%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "23.67%",
+    "uptime": "23.65%",
+    "uptimeDay": "90.00%",
+    "uptimeWeek": "97.55%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "23.65%",
     "time": 628,
     "timeDay": 465,
     "timeWeek": 553,
     "timeMonth": 614,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2025-01-28": 0,
+      "2025-01-28": 144,
       "2025-01-26": 103,
       "2024-12-27": 1358,
       "2024-12-26": 1440,
