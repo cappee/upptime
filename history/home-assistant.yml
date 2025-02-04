@@ -1,7 +1,7 @@
 url: $HASS_URL
 status: down
-code: 502
-responseTime: 758
-lastUpdated: 2025-02-04T22:49:40.677Z
+code: 530
+responseTime: 212
+lastUpdated: 2025-02-04T23:07:33.704Z
 startTime: 2024-09-17T16:35:05.435Z
 generator: Upptime <https://github.com/upptime/upptime>
